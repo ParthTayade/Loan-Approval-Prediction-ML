@@ -28,4 +28,5 @@ The dataset used in this project contains information related to loan applicants
 ### Results
 
 &#9733; Accuracy : 98%                                                                                                                     
-&#9733; Precision-Score : 0.98
+&#9733; Precision-Score : 0.98                                                                                                             
+&#9733; Recall : 0.99
