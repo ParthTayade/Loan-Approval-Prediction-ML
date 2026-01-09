@@ -8,6 +8,7 @@ Loan Approval Prediction System is a machine learning-based classification proje
 The dataset used in this project contains information related to loan applicants and is designed to predict whether a loan application will be approved or rejected based on multiple applicant attributes. Each row represents a unique loan application, and the columns describe the applicant’s personal, financial, and loan-related details.The dataset features represent applicant demographics, financial stability, and loan characteristics, including personal details.
 
 ### Approach
+
 &#9679; Loaded and explored the loan approval dataset using Pandas.
 
 &#9679; Performed Exploratory Data Analysis (EDA) to understand data distribution and patterns.
